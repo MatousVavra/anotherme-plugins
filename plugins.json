@@ -1,14 +1,14 @@
 [
   {"name": "calendar", "repo": "MatousVavra/anotherme-plugin-calendar", "tag": "v0.1.0", "description": "Store and plan calendar events", "author": "AnotherMe"},
-  {"name": "chat", "repo": "MatousVavra/anotherme-plugin-chat", "tag": "v0.1.0", "description": "Chat with LLM — conversations, streaming, tool calling, memory extraction", "author": "AnotherMe"},
-  {"name": "diary", "repo": "MatousVavra/anotherme-plugin-diary", "tag": "v0.1.0", "description": "Diary entries with AI analysis, timeline, and mood tracking", "author": "AnotherMe"},
-  {"name": "digest", "repo": "MatousVavra/anotherme-plugin-digest", "tag": "v0.1.0", "description": "Daily digest of projects, people, mood, and pending questions", "author": "AnotherMe"},
+  {"name": "chat", "repo": "MatousVavra/anotherme-plugin-chat", "tag": "v0.2.0", "description": "Chat with LLM — conversations, streaming, tool calling, memory extraction", "author": "AnotherMe"},
+  {"name": "diary", "repo": "MatousVavra/anotherme-plugin-diary", "tag": "v0.2.0", "description": "Diary entries with AI analysis, timeline, and mood tracking", "author": "AnotherMe"},
+  {"name": "digest", "repo": "MatousVavra/anotherme-plugin-digest", "tag": "v0.2.0", "description": "Daily digest of projects, people, mood, and pending questions", "author": "AnotherMe"},
   {"name": "memory", "repo": "MatousVavra/anotherme-plugin-memory", "tag": "v0.1.0", "description": "User facts, people, and projects — the knowledge base", "author": "AnotherMe"},
   {"name": "notes", "repo": "MatousVavra/anotherme-plugin-notes", "tag": "v0.1.0", "description": "Browse and read vault notes over HTTP", "author": "AnotherMe"},
   {"name": "organize", "repo": "MatousVavra/anotherme-plugin-organize", "tag": "v0.1.0", "description": "AI-powered vault organization suggestions", "author": "AnotherMe"},
-  {"name": "stats", "repo": "MatousVavra/anotherme-plugin-stats", "tag": "v0.1.0", "description": "Conversation, notes, people, and facts counts", "author": "AnotherMe"},
+  {"name": "stats", "repo": "MatousVavra/anotherme-plugin-stats", "tag": "v0.2.0", "description": "Conversation, notes, people, and facts counts", "author": "AnotherMe"},
   {"name": "store", "repo": "MatousVavra/anotherme-plugin-store", "tag": "v0.1.0", "description": "Browse, install, update, and remove community plugins", "author": "AnotherMe"},
-  {"name": "stt", "repo": "MatousVavra/anotherme-plugin-stt", "tag": "v0.1.0", "description": "Speech-to-text via Whisper", "author": "AnotherMe"},
-  {"name": "stories", "repo": "MatousVavra/anotherme-plugin-stories", "tag": "v0.1.0", "description": "Create and list stories with optional audio", "author": "AnotherMe"},
+  {"name": "stt", "repo": "MatousVavra/anotherme-plugin-stt", "tag": "v0.2.0", "description": "Speech-to-text via Whisper", "author": "AnotherMe"},
+  {"name": "stories", "repo": "MatousVavra/anotherme-plugin-stories", "tag": "v0.2.0", "description": "Create and list stories with optional audio", "author": "AnotherMe"},
   {"name": "tts", "repo": "MatousVavra/anotherme-plugin-tts", "tag": "v0.1.0", "description": "Text-to-speech via OpenAI-compatible provider", "author": "AnotherMe"}
 ]
